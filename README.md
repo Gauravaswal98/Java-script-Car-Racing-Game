@@ -90,7 +90,7 @@
 
 ## 👩‍💻 Author
 
-**Pooja**  
+**Gaurav Singh Aswal**  
 Frontend Developer  
 
 ---
